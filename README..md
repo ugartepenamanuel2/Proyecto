@@ -1,7 +1,7 @@
-#Proyecto 1ºTrimestre
+# Proyecto 1ºTrimestre
 
 
-###Tiene que contener:
+### Tiene que contener:
                     Una carpeta doc con el archivo pdf.
                     Un archivo README.md.
                     Una carpeta src con los archivos de TypeScript.
@@ -9,4 +9,4 @@
 
                     
                    
-###Manuel Pablo Ugarte Peña✨
+### Manuel Pablo Ugarte Peña✨
